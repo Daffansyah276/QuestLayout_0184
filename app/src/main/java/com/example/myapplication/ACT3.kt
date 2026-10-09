@@ -48,7 +48,7 @@ fun AktivitasPertama(modifier: Modifier = Modifier) {
                 .fillMaxWidth(1f)
                 .padding(12.dp),
             colors = CardDefaults.cardColors(
-                contentColor = Color.DarkGray
+                containerColor = Color.DarkGray
             )
         ) {
             Row { // Row nya di dalam card
