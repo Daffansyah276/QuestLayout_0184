@@ -50,4 +50,9 @@ fun AktivitasPertama(modifier: Modifier = Modifier) {
             colors = CardDefaults.cardColors(
                 contentColor = Color.DarkGray
             )
-        )
+        ) {
+            Row { // Row nya di dalam card
+                val gambar = painterResource(R.drawable.logo_umy)
+
+    }
+}
