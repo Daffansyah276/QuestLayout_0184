@@ -53,6 +53,12 @@ fun AktivitasPertama(modifier: Modifier = Modifier) {
         ) {
             Row { // Row nya di dalam card
                 val gambar = painterResource(R.drawable.logo_umy)
+                Image(
+                    painter = gambar,
+                    contentDescription = null,
+                    modifier = Modifier.size(108.dp).padding(5.dp)
+                )
+                Spacer(modifier = Modifier.width(30.dp))
 
     }
 }
