@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">My Application</string>
-    <string name="Prodi">Teknologi Informasi</string>
-    <string name="Univ">Universitas Muhammadiyah Yogyakarta</string>
+    <string name="prodi">Teknologi Informasi</string>
+    <string name="univ">Universitas Muhammadiyah Yogyakarta</string>
     <string name="nama">Daffansyah Arya Hakim</string>
     <string name="alamat">Cikarang, Bekasi</string>
     <string name="copy">Copyright, 2026</string>
